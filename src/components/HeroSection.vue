@@ -25,23 +25,23 @@ export default {
       carousel: [
         {
           img: require("@/assets/img/hero1.jpg"),
-          title: "title 1",
-          text: "lorem impsum hsdf huhui erfuh sf lorem impsum hsdf huhui erfuh sf impsum hsdf huhui erfuh sf.",
+          title: "Excellent Customer Service /Excellent service client",
+          text: " excellent customer service, including professional staff, prompt response to customer issues 24/7/   un excellent service client, y compris un personnel professionnel, une réponse rapide  aux problèmes des clients 24h/7j.",
         },
         {
           img: require("@/assets/img/hero2.jpg"),
-          title: "title 2",
-          text: "lorem impsum hsdf huhui erfuh sf lorem impsum hsdf huhui erfuh sf impsum hsdf huhui erfuh sf.",
+          title: "Competitive Pricing/Prix compétitifs :",
+          text: " Our rental car company offers competitive pricing options, including daily, weekly, and monthly rates, as well as special promotions and discounts./ Notre société de location de voitures propose des options de prix compétitifs, notamment des tarifs journaliers, hebdomadaires et mensuels, ainsi que des promotions et des remises spéciales. ",
         },
         {
           img: require("@/assets/img/hero3.jpg"),
-          title: "title 3",
-          text: "lorem impsum hsdf huhui erfuh s lorem impsum hsdf huhui erfuh sff impsum hsdf huhui erfuh sf.",
+          title: "Flexible Rental Terms / Nos termes de location sont flexibles:",
+          text: " flexible rental terms, such as options for short-term and long-term rentals, one-way rentals, and multiple drop-off locations./les conditions de location flexibles, telles que les options de location à court et à long terme, les locations à sens unique et les lieux de dépôt multiples.",
         },
         {
           img: require("@/assets/img/hero4.jpg"),
-          title: "title 4",
-          text: "lorem impsum hsdf huhui erfuh sf lorem impsum hsdf huhui erfuh sf impsum hsdf huhui erfuh sf.",
+          title: "Your comfort/votre confrot",
+          text: "Your comfort is our priority/votre confort est notre preorite",
         },
       ],
     };
